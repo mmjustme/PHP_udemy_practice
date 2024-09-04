@@ -1,4 +1,10 @@
-<?php include "./inc/header.inc.php" ?>
+<?php 
+
+$pageTitle='Our mission';
+$headerImg = "https://images.unsplash.com/photo-1447078806655-40579c2520d6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
+include "./inc/header.inc.php" 
+
+?>
 
       <h1>Our mission</h1>
       <p>
