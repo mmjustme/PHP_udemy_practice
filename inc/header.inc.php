@@ -18,6 +18,7 @@
       <nav>
         <a href="/index.php">Our mission</a>
         <a href="/ingridients.php">Ingridients</a>        
+        <a href="/menu.php">Menu</a>        
       </nav>
     </header>
 
